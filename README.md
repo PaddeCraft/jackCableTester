@@ -14,7 +14,7 @@ This is a concept for a (hopefully working) jack cable tester.
 1. Follow [these](https://micropython.org/download/rp2-pico/) instructions
 2. Copy the main.py file to the drive as well
 3. Wire everything up
-4. Test
+4. Test your cables!
 
 ## Wiring
 
